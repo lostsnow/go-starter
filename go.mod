@@ -1,4 +1,4 @@
-module github.com/lostsnow/go-starter
+module go-starter
 
 go 1.15
 

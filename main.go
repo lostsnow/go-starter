@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/lostsnow/go-starter/cmd"
+	"go-starter/cmd"
 )
 
 func main() {
