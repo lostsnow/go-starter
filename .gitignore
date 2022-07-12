@@ -29,3 +29,5 @@ Thumbs.db
 # vendor/
 
 # Project files
+configs/app.yml
+
